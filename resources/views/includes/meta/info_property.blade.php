@@ -1,0 +1,1 @@
+<title>{{ $property[0]->title }}</title>
